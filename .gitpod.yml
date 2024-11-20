@@ -1,14 +1,7 @@
 tasks:
-  - name: Install Mamba, create and activate the workshop-env environment
+  - name: Install Dependencies
     init: |
-      sudo apt-get update 
-      sudo apt-get install -y gcc g++ libgl1
-      curl https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -o ~/miniconda.sh
-      bash ~/miniconda.sh -b -p $HOME/miniconda
-      source $HOME/miniconda/etc/profile.d/conda.sh
-      echo "source $HOME/miniconda/etc/profile.d/conda.sh" >> $HOME/.bashrc
-      conda install -y -c conda-forge python numpy matplotlib seaborn scipy pingouin    
-    command: exec bash
+      pip install numpy maptlotlib
 
 vscode:
   extensions:
