@@ -48,4 +48,5 @@ There are three things to do before we start the workshop
 
 In case of installation issues, use Gitpod link provided below!
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#[<your-repository-url>](https://github.com/ibehave-ibots/Intro-To-Python-December-))
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/ibehave-ibots/Intro-To-Python-December-)
+
