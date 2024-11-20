@@ -1,5 +1,8 @@
 # Python for Data Analysis and Visualization Workshop
 
+
+**Installation Instructions**
+
 There are three things to do before we start the workshop
 1. Install Python via Anaconda
    For python environments.
@@ -12,6 +15,7 @@ There are three things to do before we start the workshop
    Make sure you have installed Anaconda and VS Code
    Open the notebook in VS Code
 
+---
 
 ## Day 1
 
@@ -29,12 +33,19 @@ There are three things to do before we start the workshop
 
 4. [04 Image Data with Numpy and Matplotlib.ipynb](04%20Image%20Data%20with%20Numpy%20and%20Matplotlib.ipynb)  
    - Perform basic image processing in Python using numpy arrays.
-   - Visualize image data with Matplotlib.
+   - Visualize image data with matplotlib.
 
 ## Day 2
 
 5. [05 Signals and Plotting With Numpy And Matplotlib.ipynb](05%20Signals%20and%20Plotting%20With%20Numpy%20And%20Matplotlib.ipynb)  
-   - Visualize signals in Python.
+   - Visualize signals in Python with matplotlib.
+   - Subplots with matplotlib
 
 6. [06 Logical Indexing.ipynb](06%20Logical%20Indexing.ipynb)
    - Filter and modify data collections using logical indexing techniques.
+
+---
+
+In case of installation issues, use Gitpod link provided below!
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#[<your-repository-url>](https://github.com/ibehave-ibots/Intro-To-Python-December-))
