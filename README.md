@@ -1,11 +1,25 @@
 # Python for Data Analysis and Visualization Workshop
 
+There are three things to do before we start the workshop
+1. Install Python via Anaconda
+   For python environments.
+   Installation instructions: https://docs.anaconda.com/free/anaconda/install/
+   Installation verification: https://docs.anaconda.com/anaconda/install/verify-install/
+2. Install Visual Studio Code (Editor)
+   Download link: https://code.visualstudio.com/download
+   Run the installer and follow the setup wizard
+3. Go through First Look Notebook (attached file)
+   Make sure you have installed Anaconda and VS Code
+   Open the notebook in VS Code
+   Explore as much as you can/want!
+
+
 ## Day 1
 
 1. [01 Results Reporting With Jupyter.ipynb](01%20Results%20Reporting%20With%20Jupyter.ipynb)
 
    - Learn how to import libraries in Python.
-   - Understand how to access methods from those libraries.
+   - Understand how to access functions from those libraries.
 
 2. [02 Core Data Collections And Numpy Functions.ipynb](02%20Core%20Data%20Collections%20And%20Numpy%20Functions.ipynb)  
 
