@@ -11,8 +11,9 @@ There are three things to do before we start the workshop
 3. Go through First Look Notebook (attached file)
    Make sure you have installed Anaconda and VS Code
    Open the notebook in VS Code
-   Explore as much as you can/want!
 
+
+[Pre-workshop material](Python%20First%20Look.ipynb)
 
 ## Day 1
 
