@@ -1,13 +1,7 @@
 tasks:
-  - name: Setup Conda in Base Environment
+  - name: Install Dependencies
     init: |
-      sudo apt-get update 
-      sudo apt-get install -y gcc g++ libgl1 libarchive-dev
-      curl https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -o ~/miniconda.sh
-      bash ~/miniconda.sh -b -p $HOME/miniconda
-      source $HOME/miniconda/etc/profile.d/conda.sh
-      conda install -y -n base -c conda-forge python=3.12 numpy matplotlib seaborn scipy pingouin
-    command: exec bash
+      pip install numpy matplotlib 
 
 vscode:
   extensions:
