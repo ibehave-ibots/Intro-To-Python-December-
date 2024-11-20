@@ -8,12 +8,10 @@ There are three things to do before we start the workshop
 2. Install Visual Studio Code (Editor)
    Download link: https://code.visualstudio.com/download
    Run the installer and follow the setup wizard
-3. Go through First Look Notebook (attached file)
+3. Go through [Pythn First Look](Python%20First%20Look.ipynb)
    Make sure you have installed Anaconda and VS Code
    Open the notebook in VS Code
 
-
-[Pre-workshop material](Python%20First%20Look.ipynb)
 
 ## Day 1
 
