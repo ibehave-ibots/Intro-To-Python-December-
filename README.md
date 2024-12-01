@@ -1,7 +1,7 @@
 # Python for Data Analysis and Visualization Workshop
 
 
-**Installation Instructions**
+## Installation Instructions
 
 There are three things to do before we start the workshop
 1. Install Python via Miniconda
@@ -15,7 +15,7 @@ There are three things to do before we start the workshop
 
 ---
 
-## Day 1
+**Day 1**
 
 1. [01 Core Data Collections And Numpy Functions.ipynb](01%20Core%20Data%20Collections%20And%20Numpy%20Functions.ipynb)  
    - Represent collections of data in Python using lists, tuples, and numpy arrays.
