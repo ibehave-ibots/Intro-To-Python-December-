@@ -1,7 +1,9 @@
 # Python for Data Analysis and Visualization Workshop
 
 
-## Installation Instructions
+## Preparations 
+
+**Installation Instructions**
 
 There are three things to do before we start the workshop
 1. Install Python via Miniconda
@@ -9,9 +11,13 @@ There are three things to do before we start the workshop
 2. Install Visual Studio Code (Editor)
    Download link: https://code.visualstudio.com/download
    Run the installer and follow the setup wizard
-3. Go through [Pythn First Look](Python%20First%20Look.ipynb)
-   Make sure you have installed Miniconda and VS Code
-   Open the notebook in VS Code
+
+**Download Day-1 Materials**
+
+1. Download and extract materials from this github repo.
+![abc](img/download.png)
+2. Open the folder in VS Code.
+3. Go through `Python First Look` notebook until we begin!
 
 ---
 
