@@ -4,15 +4,13 @@
 **Installation Instructions**
 
 There are three things to do before we start the workshop
-1. Install Python via Anaconda
-   For python environments.
-   Installation instructions: https://docs.anaconda.com/free/anaconda/install/
-   Installation verification: https://docs.anaconda.com/anaconda/install/verify-install/
+1. Install Python via Miniconda
+   Installation instructions: https://www.anaconda.com/download/success
 2. Install Visual Studio Code (Editor)
    Download link: https://code.visualstudio.com/download
    Run the installer and follow the setup wizard
 3. Go through [Pythn First Look](Python%20First%20Look.ipynb)
-   Make sure you have installed Anaconda and VS Code
+   Make sure you have installed Miniconda and VS Code
    Open the notebook in VS Code
 
 ---
