@@ -20,7 +20,7 @@ There are three things to do before we start the workshop
 ## Day 1
 
 1. [01 Core Data Collections And Numpy Functions.ipynb](01%20Core%20Data%20Collections%20And%20Numpy%20Functions.ipynb)  
-
+   - 10 minutes 
    - Represent collections of data in Python using lists, tuples, and numpy arrays.
 
 2. [02 Indexing and Slicing.ipynb](02%20Indexing%20and%20Slicing.ipynb)  
