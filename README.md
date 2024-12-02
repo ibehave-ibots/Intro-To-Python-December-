@@ -7,7 +7,7 @@
 
 There are three things to do before we start the workshop
 1. Install Python via Miniconda
-   Installation instructions: https://www.anaconda.com/download/success
+   Installation: https://www.anaconda.com/download/success
 2. Install Visual Studio Code (Editor)
    Download link: https://code.visualstudio.com/download
    Run the installer and follow the setup wizard
