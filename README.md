@@ -34,8 +34,7 @@ There are three things to do before we start the workshop
    - Perform basic image processing in Python using numpy arrays.
    - Visualize image data with matplotlib.
 
-4. [04 Plots and Subplots With Matplotlib.ipynb]
-(04%20Plots%20and%20Subplots%20With%20Matplotlib.ipynb)  
+4. [04 Plots and Subplots With Matplotlib.ipynb](04%20Plots%20and%20Subplots%20With%20Matplotlib.ipynb)  
    - Visualize signals in Python with matplotlib.
    - Subplots with matplotlib
    
