@@ -5,10 +5,10 @@
 
 ## Exercise 2
 
-1. Create a conda environment called `env_1` with python version 2.7
+1. Create a conda environment called `env_1` with python version 3.10
 
 ```shell
-conda create -n env_1 python=2.7
+conda create -n env_1 python=3.10
 ```
 
 2. Activate `env_1` 
